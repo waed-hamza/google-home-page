@@ -166,7 +166,7 @@ main{
 
 /* Footer */
 footer{
-    margin-top: 165px;
+    margin-top: 230px;
     display: flex;
     flex-direction: column;
     max-width: 100%;
@@ -202,3 +202,4 @@ footer{
 .footer-links a:hover{
     text-decoration: underline;
 }
+
